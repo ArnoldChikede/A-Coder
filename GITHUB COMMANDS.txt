@@ -1,0 +1,24 @@
+pwd   = shows you the directory you are working in 
+
+cd ~  = shortcut to map you straight to you Home directory 
+
+cd ~/Documents = instead of writing the full path you can start at here..short forh= home directory then we go to documents
+
+git pull = is more like updating the local repository that you already have when ypu make changes say in the remote repo
+
+git status = tells me things that i have changed in the local directory that i have committed or pushed yet when  i change them in the locak directory 
+
+
+git add <file name>  = this tells git what kind of files do you want to add to que up for the sending process coz you can have sometimes say 3 files and you want to commit them differently...so simply means you que and commit only the things that you want to send at a specific moment 
+
+git add .    = this however stages everything 
+
+
+git commit -m "Example message"   = this includes are commit message for what you did and takes a snapshot of whats happening 
+
+
+git push  = finally we push the changes to the remote repo
+
+cd ..  = this moves u one directory up and  cd ../.. move you two kevels up and dont forget  to check statusof directory when ever you are moving up 	
+
+
