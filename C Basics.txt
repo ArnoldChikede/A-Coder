@@ -1,0 +1,3 @@
+C Basics
+
+String mystring = "sec"     ---  remember to use "" for strings and '' for single characters like A, 1
