@@ -1,0 +1,19 @@
+Project Scope 
+
+Use an ESP 32 for cloud based services and remote controlling  
+	The ESP32 will be used to leverage its wifi and bte capabilities to use Amazon web services
+
+	Python will be need for subscribing and punlishing topics to the the cloud using the BOTO3 SDK for this (so some python projects need to be done a bit to come to pace)
+
+	Possibility of connecting ESP32 with SRM32 through simple serial connection and use the High performance capabilities of STM32(This is in a case of not being able to use ESP32  single chip or two of them
+	at once.....if time and skills allow , would like to use STM32-----ESP32 connection.
+
+	IF all works out, we can make a custom board combining the STM32 AND ESP32 on one board together with certain actuators, which will gather information from the surroundings for proper control  
+
+
+Now, what we need to do is look for a cool PROJECT that is practical
+
+
+
+
+	
